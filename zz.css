@@ -1,0 +1,19 @@
+a,div,td,.pagination-goto,span[data-target="#deleteconfirmmodal"]{text-decoration: none!important;
+color:#939393!important;
+text-transform: lowercase!important;}
+#footer{display:none;}
+div#app {width:70%;margin:auto}
+div#app::before {content: ''; height: 10px;display: block;background: url(https://i.pinimg.com/originals/f0/b9/47/f0b947837fbda6e561ae1a3557f58e9e.gif)no-repeat center/100%;background-blend-mode:screen ;}
+.bodybg {background: url(https://i.ibb.co/DRJZ9X6/cfc.png)no-repeat right top fixed}
+p {margin-top: 0;margin-bottom: 0;}
+.textareabg,.comment-box h2,.comment-box__message-partial{text-align:right;}
+.post-title-date+span {display:none;}
+.datebg{display:none}
+a.navbar-brand {font-size: 0px;background: url(https://i.gifer.com/origin/bd/bd38b4c1a1094ef234b3fb695e90af76_w200.gif) no-repeat center;background-size: contain;width: 45px;height: 45px;margin-left:39px}
+.text-center+p,.text-center+div {display: none;}
+[href="//mrazobast.beon.fun/birthdays/"] {display:none}
+[src="/i/user.png"] {display:none}
+[src="/i/blog.png"] {display:none}
+.navbar {padding:30px}
+.pagination-goto {display:none}
+.pagination {margin-left:10px}
